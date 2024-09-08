@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Technologies but mostly Mictosoft's products :]
 - 🌱 I’m currently learning Asp.net Mvc & Asp.net Core and I will start to python & java soon,
 - 💞️ I’m looking to collaborate on software courses & software companies,
-- 📫 You can contact me with these mail adress: serkanozkanli.hector@yahoo.com, serkanozkanli.hector@gmail.com
+- 📫 You can contact me with these mail adress: serkanozkanli.hector@yahoo.com, sozkanli@my.centennialcollege.ca
 - 😄 Pronouns: He
